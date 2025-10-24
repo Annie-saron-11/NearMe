@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 24/20/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -136,6 +136,12 @@ garden.html
 
 
 ## OUTPUT
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+
+
 
 
 
